@@ -1,0 +1,11 @@
+# sensitive files
+
+.env*
+config.js
+junk
+
+# node files
+node_modules
+
+# temporary files
+temp

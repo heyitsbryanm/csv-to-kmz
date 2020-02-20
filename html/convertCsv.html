@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Zendesk search exporter</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.5.3/css/foundation.min.css" />
+
+</head>
+
+<body>
+  <a href='/'><i>Back to home</i></a>
+  <div class="formContainer">
+    <h1>
+      Zendesk search export
+    </h1>
+    <p>
+      Searches Zendesk for a search term and downloads a CSV to output.
+    </p>
+    <form className="grid-x padding-margin-x" id="myForm">
+      <label for="searchInput" class="large-4 medium-4 small-12">Search input</label>
+      <input type="text" className="large-6 medium-6 small-12 " id="searchInput"
+      value="billing tags:account___billing__general_billing order_by:created sort:desc"
+      placeholder="Search term here" />
+
+      <label for="searchPage" class="large-4 medium-4 small-12">Page number</label>
+      <input type="text" className="large-6 medium-6 small-12 " id="searchPage" value="1" placeholder="Search term here" />
+      <input type="submit" value="Send Me!">
+    </form>
+
+    <!--         
+        <form id="myForm">
+                <label for="myName">Send me your name:</label>
+                <input id="myName" name="name" value="John">
+                <input type="submit" value="Send Me!">
+            </form> -->
+
+    <!-- Learn about this code on MDN: https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Sending_forms_through_JavaScript -->
+
+
+    <script>
+
+      // formdata - form stuff
+      window.addEventListener("load", function () {
+
+        let formData = new FormData(); // Currently empty, will be filled by "getOrgIds" function'
+
+        // send data = it's always the same
+        sendData = () => {
+          var XHR = new XMLHttpRequest();
+          // Bind the FormData object and the form element
+
+          // Define what happens on successful data submission
+          XHR.addEventListener("load", function (event) {
+            alert(event.target.responseText);
+          });
+
+          // Define what happens in case of error
+          XHR.addEventListener("error", function (event) {
+            alert('Oops! Something went wrong.');
+          });
+
+          // Set up our request
+          XHR.open("POST", "/zendesk-search-export-endpoint/");
+          // XHR.open("POST", "https://hookb.in/G93VxaBlZVh1m1eBNLgn");
+
+          // The data sent is what the user provided in the form
+          XHR.send(formData);
+          formData = new FormData();
+        }
+
+        parseMessage = () => {
+
+          let searchValue = document.querySelector('#searchInput').value;
+          let searchPage = document.querySelector('#searchPage').value;
+
+
+          formData.append('search_term', searchValue)
+          formData.append('search_term', searchPage)
+        }
+
+        // Access the form element...
+        var form = document.querySelector("#myForm");
+
+        // ...and take over its submit event.
+        form.addEventListener("submit", function (event) {
+          event.preventDefault();
+          console.log('submitted')
+          parseMessage();
+          sendData(); // enable when finished
+
+
+        });
+
+      });
+
+
+    </script>
+
+  </div>
+</body>
+
+</html>

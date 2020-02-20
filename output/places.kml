@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+      <Style id="icon-partying-normal">
+        <IconStyle>
+          <scale>1</scale>
+          <Icon>
+            <href>images/partying.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>0</scale>
+        </LabelStyle>
+      </Style>
+      <Style id="icon-partying-highlight">
+        <IconStyle>
+          <scale>1</scale>
+          <Icon>
+            <href>images/partying.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <StyleMap id="icon-partying">
+        <Pair>
+          <key>normal</key>
+          <styleUrl>#icon-partying-normal</styleUrl>
+        </Pair>
+        <Pair>
+          <key>highlight</key>
+          <styleUrl>#icon-partying-highlight</styleUrl>
+        </Pair>
+      </StyleMap>
+      <Style id="icon-ci-explore-normal">
+        <IconStyle>
+          <scale>1.1</scale>
+          <Icon>
+            <href>images/explore.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>0</scale>
+        </LabelStyle>
+      </Style>
+      <Style id="icon-ci-explore-highlight">
+        <IconStyle>
+          <scale>1.1</scale>
+          <Icon>
+            <href>images/explore.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1.1</scale>
+        </LabelStyle>
+      </Style>
+      <StyleMap id="icon-ci-explore">
+        <Pair>
+          <key>normal</key>
+          <styleUrl>#icon-ci-explore-normal</styleUrl>
+        </Pair>
+        <Pair>
+          <key>highlight</key>
+          <styleUrl>#icon-ci-explore-highlight</styleUrl>
+        </Pair>
+      </StyleMap>
+      <Style id="icon-ci-food-normal">
+        <IconStyle>
+          <scale>1.1</scale>
+          <Icon>
+            <href>images/food.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>0</scale>
+        </LabelStyle>
+      </Style>
+      <Style id="icon-ci-food-highlight">
+        <IconStyle>
+          <scale>1.1</scale>
+          <Icon>
+            <href>images/food.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1.1</scale>
+        </LabelStyle>
+      </Style>
+      <StyleMap id="icon-ci-food">
+        <Pair>
+          <key>normal</key>
+          <styleUrl>#icon-ci-food-normal</styleUrl>
+        </Pair>
+        <Pair>
+          <key>highlight</key>
+          <styleUrl>#icon-ci-food-highlight</styleUrl>
+        </Pair>
+      </StyleMap>
+      <Style id="icon-ci-fun_activities-normal">
+        <IconStyle>
+          <scale>1.1</scale>
+          <Icon>
+            <href>images/fun_activities.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>0</scale>
+        </LabelStyle>
+      </Style>
+      <Style id="icon-ci-fun_activities-highlight">
+        <IconStyle>
+          <scale>1.1</scale>
+          <Icon>
+            <href>images/fun_activities.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1.1</scale>
+        </LabelStyle>
+      </Style>
+      <StyleMap id="icon-ci-fun_activities">
+        <Pair>
+          <key>normal</key>
+          <styleUrl>#icon-ci-fun_activities-normal</styleUrl>
+        </Pair>
+        <Pair>
+          <key>highlight</key>
+          <styleUrl>#icon-ci-fun_activities-highlight</styleUrl>
+        </Pair>
+      </StyleMap>
+      <Style id="icon-ci-must_do-normal">
+        <IconStyle>
+          <scale>1.1</scale>
+          <Icon>
+            <href>images/must_do.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>0</scale>
+        </LabelStyle>
+      </Style>
+      <Style id="icon-ci-must_do-highlight">
+        <IconStyle>
+          <scale>1.1</scale>
+          <Icon>
+            <href>images/must_do.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1.1</scale>
+        </LabelStyle>
+      </Style>
+      <StyleMap id="icon-ci-must_do">
+        <Pair>
+          <key>normal</key>
+          <styleUrl>#icon-ci-must_do-normal</styleUrl>
+        </Pair>
+        <Pair>
+          <key>highlight</key>
+          <styleUrl>#icon-ci-must_do-highlight</styleUrl>
+        </Pair>
+      </StyleMap>
+      <Style id="icon-ci-mystery-normal">
+        <IconStyle>
+          <scale>1.1</scale>
+          <Icon>
+            <href>images/mystery.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>0</scale>
+        </LabelStyle>
+      </Style>
+      <Style id="icon-ci-mystery-highlight">
+        <IconStyle>
+          <scale>1.1</scale>
+          <Icon>
+            <href>images/mystery.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1.1</scale>
+        </LabelStyle>
+      </Style>
+      <StyleMap id="icon-ci-mystery">
+        <Pair>
+          <key>normal</key>
+          <styleUrl>#icon-ci-mystery-normal</styleUrl>
+        </Pair>
+        <Pair>
+          <key>highlight</key>
+          <styleUrl>#icon-ci-mystery-highlight</styleUrl>
+        </Pair>
+      </StyleMap>
+      <Style id="icon-ci-photo_op-normal">
+        <IconStyle>
+          <scale>1.1</scale>
+          <Icon>
+            <href>images/photo_op.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>0</scale>
+        </LabelStyle>
+      </Style>
+      <Style id="icon-ci-photo_op-highlight">
+        <IconStyle>
+          <scale>1.1</scale>
+          <Icon>
+            <href>images/photo_op.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1.1</scale>
+        </LabelStyle>
+      </Style>
+      <StyleMap id="icon-ci-photo_op">
+        <Pair>
+          <key>normal</key>
+          <styleUrl>#icon-ci-photo_op-normal</styleUrl>
+        </Pair>
+        <Pair>
+          <key>highlight</key>
+          <styleUrl>#icon-ci-photo_op-highlight</styleUrl>
+        </Pair>
+      </StyleMap><Placemark>
+      <name>Tibumana Waterfall</name>
+      <description><![CDATA[<img src="https://dailytravelpill.com/wp-content/uploads/2018/07/tibumana-waterfall-bali-6.jpg" height="200" width="auto" /><br><br>Just 45 minutes away from Ubud, there is this beautiful hidden gem called Tibumana Waterfall. Its perfect, straight stream of water made me fall in love with it instantly. Although you might find a few people at this waterfall, there won’t be any crowds. GET HERE EARLY TOO?]]></description>
+      <styleUrl>#icon-ci-must_do</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://dailytravelpill.com/wp-content/uploads/2018/07/tibumana-waterfall-bali-6.jpg]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          115.3252352,-8.5073257,0
+        </coordinates>
+      </Point>
+    </Placemark><Placemark>
+      <name>Bangkiang Djaran Waterfall</name>
+      <description><![CDATA[<img src="https://dailytravelpill.com/wp-content/uploads/2018/07/bangkiang-djaran-waterfall-bali.jpg" height="200" width="auto" /><br><br>A bit further from Ubud than Tibumana Waterfall, Bangkiang Djaran Waterfall is trully a hidden place. Although the access to this waterfall is easy, it somehow got overlooked by tourists.]]></description>
+      <styleUrl>#icon-ci-explore</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://dailytravelpill.com/wp-content/uploads/2018/07/bangkiang-djaran-waterfall-bali.jpg]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          115.339904,-8.503542,0
+        </coordinates>
+      </Point>
+    </Placemark><Placemark>
+      <name>Tukad Cepung Waterfall</name>
+      <description><![CDATA[<img src="https://dailytravelpill.com/wp-content/uploads/2018/07/tukad-cepung-waterfall-bali-4.jpg" height="200" width="auto" /><br><br>A rising star among Instagrammers is Tukad Cepung Waterfall, one of the most beautiful waterfalls in Asia. It is well known due to the majestic rocks that surround it and the light rays which offer an incredible spectacle. MUST GET HERE EARLY!]]></description>
+      <styleUrl>#icon-ci-explore</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://dailytravelpill.com/wp-content/uploads/2018/07/tukad-cepung-waterfall-bali-4.jpg]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          115.3852898,-8.4408339,0
+        </coordinates>
+      </Point>
+    </Placemark><Placemark>
+      <name>Pengempu Waterfall</name>
+      <description><![CDATA[<img src="https://media-cdn.tripadvisor.com/media/photo-m/1280/15/2a/a8/24/chilling-in-the-water.jpg" height="200" width="auto" /><br><br>Small, chill waterfall]]></description>
+      <styleUrl>#icon-ci-explore</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://media-cdn.tripadvisor.com/media/photo-m/1280/15/2a/a8/24/chilling-in-the-water.jpg]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          115.2012778,-8.469335,0
+        </coordinates>
+      </Point>
+    </Placemark></Document>
+  </kml>

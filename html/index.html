@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Convert CSV to KMZ</title>
+    <link href='/css/style.css' rel='stylesheet'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.5.3/css/foundation.min.css" />
+
+</head>
+
+<body>
+    <a href='/'><i>Back to home</i></a>
+    <h1>
+        Convert CSV to KMZ
+    </h1>
+    <div class="formContainer grid-x grid-padding-x">
+        <div class="large-4 medium-4 small-4 cell">
+            <p>Check the read.me for instructions</p>
+        </div>
+        <div class="spacer large-1 medium-1 small-1 "></div>
+        <form id="myForm" class="">
+            <div class="large-7 medium-7 small-7 grid-x formContainer cell">
+                <div id="upload_file" class="grid-x large-12 medium-12 small-12">
+                    <label for="file" class="large-12 medium-12 small-12">Upload file</label>
+                    <input type="file" id="file" />
+                </div>
+            </div>
+
+            <input type="submit" value="Send Me!">
+        </form>
+
+        <!-- Learn about this code on MDN: https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Sending_forms_through_JavaScript -->
+
+        <script>
+
+            // form changer
+            changeForm = () => {
+                let value = document.querySelector('#select').value;
+                console.log(document.querySelector(`#${value}`))
+
+                document.querySelector('.show').classList.remove('show');
+                document.querySelector(`#${value}`).classList.add('show');
+
+            }
+
+            // formdata - form stuff
+            window.addEventListener("load", function () {
+
+                var formData = new FormData(); // Currently empty, will be filled by "getOrgIds" function'
+
+                sendData = () => {
+
+                    var XHR = new XMLHttpRequest();
+                    // Bind the FormData object and the form element
+
+                    // Define what happens on successful data submission
+                    XHR.addEventListener("load", function (event) {
+                        alert(event.target.responseText);
+                    });
+
+                    // Define what happens in case of error
+                    XHR.addEventListener("error", function (event) {
+                        alert('Oops! Something went wrong.');
+                    });
+
+                    // Set up our request
+                    XHR.open("POST", "/convertCsv/");
+                    // XHR.open("POST", "https://hookb.in/2qYPjdyj7zUDYDK6R7GE");
+                    // XHR.open("POST", "https://safdsafdas.free.beeceptor.com");
+
+                    // The data sent is what the user provided in the form
+                    XHR.send(formData);
+
+                    console.log('formData file is: ', formData.file)
+                    console.log('formData is: ', formData)
+                    // clears formdata
+
+                    formData = new FormData();
+                }
+
+                parseMessage = () => {
+                    // send either paste data or file data, but not both
+                    let file = document.querySelector('#file').files[0];
+                    formData.append("file", file)
+
+                }
+                // Access the form element...
+                var form = document.querySelector("#myForm");
+
+                // ...and take over its submit event.
+                form.addEventListener("submit", function (event) {
+                    event.preventDefault();
+                    parseMessage();
+                    sendData(); // enable when finished
+                });
+
+            });
+
+        </script>
+
+    </div>
+</body>
+
+</html>

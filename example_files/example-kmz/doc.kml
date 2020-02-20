@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Chiang Mai</name>
+    <Style id="icon-1838-0288D1-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1838-0288D1-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1838-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1838-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1838-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-ci-1-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-ci-1-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-ci-1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-ci-1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-ci-1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-ci-2-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-ci-2-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-ci-2">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-ci-2-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-ci-2-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-ci-3-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-ci-3-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-ci-3">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-ci-3-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-ci-3-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Doi Suthep</name>
+      <description><![CDATA[<img src="https://doc-08-1g-mymaps.googleusercontent.com/untrusted/hostedimage/g685sju71i6dkbkrljgnaectpk/dhatk867ird5esqujomr1membs/1582092000000/6LUSyvvoJfA0gXzQuuvXMHMX0yA9ZZ_5/07434178195286083876/1AF2TALq2-nmlLD_cYxx8h46uQZ4rb_GnYCYrkn30E7DpGwQrhp8PSLSBoyw2RSBmr2ttsxMOkDhyC5bP86bKpMTSSWzi-eXwXPx8SnLwnp9-1Nb3vYEX5J-nx5Ypx6TmeKNSRviIUCjMtoQ0KFt9PX1xAvjn1OoebyZX0m4qF_QoDdxLej2A7QBaE7LTndCEc-YujbUTpUhma83cUL_T7qH1qNUTbxkIQTS4BCCtVnVHsQYnngot5-Ll3lBlqpDp4IlDm9bV6jg07MTAo1lE8HhBlPmBevtfZw?session=0&fife" height="200" width="auto" /><br><br>Doi Suthep–Pui National Park is a national park in Chiang Mai Province in Thailand. It includes Wat Phra That Doi Suthep, a Buddhist temple, and Bhubing Palace, the winter residence of King Bhumibol Adulyadej and family.]]></description>
+      <styleUrl>#icon-ci-1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-1g-mymaps.googleusercontent.com/untrusted/hostedimage/g685sju71i6dkbkrljgnaectpk/dhatk867ird5esqujomr1membs/1582092000000/6LUSyvvoJfA0gXzQuuvXMHMX0yA9ZZ_5/07434178195286083876/1AF2TALq2-nmlLD_cYxx8h46uQZ4rb_GnYCYrkn30E7DpGwQrhp8PSLSBoyw2RSBmr2ttsxMOkDhyC5bP86bKpMTSSWzi-eXwXPx8SnLwnp9-1Nb3vYEX5J-nx5Ypx6TmeKNSRviIUCjMtoQ0KFt9PX1xAvjn1OoebyZX0m4qF_QoDdxLej2A7QBaE7LTndCEc-YujbUTpUhma83cUL_T7qH1qNUTbxkIQTS4BCCtVnVHsQYnngot5-Ll3lBlqpDp4IlDm9bV6jg07MTAo1lE8HhBlPmBevtfZw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          98.8919444000001,18.8163889,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Doi Inthanon National Park</name>
+      <description><![CDATA[<img src="https://doc-04-1g-mymaps.googleusercontent.com/untrusted/hostedimage/g685sju71i6dkbkrljgnaectpk/cqhfrh874d5cfu7is24astk64o/1582092000000/6LUSyvvoJfA0gXzQuuvXMHMX0yA9ZZ_5/07434178195286083876/1AF2TALq6HCMwK75VilEb6t2HGAu3UIlsvJWAyuXsWUWYG0SeY5zLZjFzjq6FEBsuRyUz3TFlRYgf9C8LWorgyiPl5Sjay6SjBG4Z9CzekbO4SCkHfrs2yR1qGCPbCcKC5h0md4Vx7Zt0PsknrisbpdpYRIbZAU6KO8jOGrOLlQ5l0OdW-uSLDRago37UY0G3dLxIDhMV4TKuwUdUNmSY4CsyaPJ9QRTTUamYHEVZP1oLC5YNvD4IcsKWZRffl3rZoA_OdaNFg8yQY79XdT_zj8DsZNm78nj1jg?session=0&fife" height="200" width="auto" /><br><br>Doi Inthanon National Park, nicknamed "the roof of Thailand", is in the Thanon Thong Chai Range, Chom Thong District, Chiang Mai Province, northern Thailand. It includes Doi Inthanon, the country's highest mountain.]]></description>
+      <styleUrl>#icon-ci-1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-1g-mymaps.googleusercontent.com/untrusted/hostedimage/g685sju71i6dkbkrljgnaectpk/cqhfrh874d5cfu7is24astk64o/1582092000000/6LUSyvvoJfA0gXzQuuvXMHMX0yA9ZZ_5/07434178195286083876/1AF2TALq6HCMwK75VilEb6t2HGAu3UIlsvJWAyuXsWUWYG0SeY5zLZjFzjq6FEBsuRyUz3TFlRYgf9C8LWorgyiPl5Sjay6SjBG4Z9CzekbO4SCkHfrs2yR1qGCPbCcKC5h0md4Vx7Zt0PsknrisbpdpYRIbZAU6KO8jOGrOLlQ5l0OdW-uSLDRago37UY0G3dLxIDhMV4TKuwUdUNmSY4CsyaPJ9QRTTUamYHEVZP1oLC5YNvD4IcsKWZRffl3rZoA_OdaNFg8yQY79XdT_zj8DsZNm78nj1jg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          98.4826275,18.586073,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Elephant Nature Park</name>
+      <description><![CDATA[<img src="https://doc-0g-1g-mymaps.googleusercontent.com/untrusted/hostedimage/g685sju71i6dkbkrljgnaectpk/csnha239uol4mkfl4f7sdurf3c/1582092000000/6LUSyvvoJfA0gXzQuuvXMHMX0yA9ZZ_5/07434178195286083876/1AF2TALqeRO-L6TodWMVb9084NZFvh2LYaawshvMUTk4dozDMSKTs2z3eHOdhDIOtMIuLrKRNR2kDX3gSIvgr3_L_2oHfZpE_my2EVXwi-fFeDFnnkc_aw3qgT6e_W-4yuS3wANnSzmBbMAgc_SRGtWpzPT_hf7FW0m9z9ZXqNn9tZygWidUN4bK5eYj5loCu4SzBB6-WX1MsaRP1iW-li0arEgj1HKPkhLScsgbQTmmbgo7uJ0kVsHtvjnevWbYBgSgfe8pJVriN5Gd-ExObNlAWUrEw34mbpg?session=0&fife" height="200" width="auto" /><br><br>Elephant Nature Park is a sanctuary and rescue centre for elephants in Mae Taeng District, Chiang Mai Province, Northern Thailand, approximately 60 kilometres from Chiang Mai City, co-founded by Sangduen "Lek" Chailert.<br><br>Monday	9AM–5PM<br>Tuesday	9AM–5PM<br>Wednesday	9AM–5PM<br>Thursday	9AM–5PM<br>Friday	9AM–5PM<br>Saturday	9AM–5PM<br>Sunday	Closed]]></description>
+      <styleUrl>#icon-ci-2</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-1g-mymaps.googleusercontent.com/untrusted/hostedimage/g685sju71i6dkbkrljgnaectpk/csnha239uol4mkfl4f7sdurf3c/1582092000000/6LUSyvvoJfA0gXzQuuvXMHMX0yA9ZZ_5/07434178195286083876/1AF2TALqeRO-L6TodWMVb9084NZFvh2LYaawshvMUTk4dozDMSKTs2z3eHOdhDIOtMIuLrKRNR2kDX3gSIvgr3_L_2oHfZpE_my2EVXwi-fFeDFnnkc_aw3qgT6e_W-4yuS3wANnSzmBbMAgc_SRGtWpzPT_hf7FW0m9z9ZXqNn9tZygWidUN4bK5eYj5loCu4SzBB6-WX1MsaRP1iW-li0arEgj1HKPkhLScsgbQTmmbgo7uJ0kVsHtvjnevWbYBgSgfe8pJVriN5Gd-ExObNlAWUrEw34mbpg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          98.8613855999999,19.2164372,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wat Chedi Luang Worawihan</name>
+      <description><![CDATA[<img src="https://doc-04-1g-mymaps.googleusercontent.com/untrusted/hostedimage/g685sju71i6dkbkrljgnaectpk/hff0ct94d9kch5h908ocu1dh38/1582092000000/6LUSyvvoJfA0gXzQuuvXMHMX0yA9ZZ_5/07434178195286083876/1AF2TALqAes2wZNGNNzTZXDEaP4ONa_2sjtUe2kgVQ69K5YMRPONuxO46AHVmCZF38v-U1jU8WTA4LgQMvW1-YnlXMG6IwugeFDH3JE_OHFr2ZUJKzX6EZ2yAA-_GwKN_OgH9TfojzS3HgvOU_F7uQbSy71OPlY93XYHmiURCLMT63pmg-1lqQErrkriAUAfglEVZQJUeL2_xxEuXnBR89LiYmU7MldR7L7ZBvL9NKHoyPvm6sfys2IGrQWBVY9gpiq_0OD3U5JTaPas1lT6bTJYzgcIcUAfSUQ?session=0&fife" height="200" width="auto" /><br><br>Wat Chedi Luang is a Buddhist temple in the historic centre of Chiang Mai, Thailand. The current temple grounds were originally made up of three temples — Wat Chedi Luang, Wat Ho Tham and Wat Sukmin.]]></description>
+      <styleUrl>#icon-ci-1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-1g-mymaps.googleusercontent.com/untrusted/hostedimage/g685sju71i6dkbkrljgnaectpk/hff0ct94d9kch5h908ocu1dh38/1582092000000/6LUSyvvoJfA0gXzQuuvXMHMX0yA9ZZ_5/07434178195286083876/1AF2TALqAes2wZNGNNzTZXDEaP4ONa_2sjtUe2kgVQ69K5YMRPONuxO46AHVmCZF38v-U1jU8WTA4LgQMvW1-YnlXMG6IwugeFDH3JE_OHFr2ZUJKzX6EZ2yAA-_GwKN_OgH9TfojzS3HgvOU_F7uQbSy71OPlY93XYHmiURCLMT63pmg-1lqQErrkriAUAfglEVZQJUeL2_xxEuXnBR89LiYmU7MldR7L7ZBvL9NKHoyPvm6sfys2IGrQWBVY9gpiq_0OD3U5JTaPas1lT6bTJYzgcIcUAfSUQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          98.9865804,18.7869693,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grand Canyon Chiang Mai</name>
+      <description><![CDATA[<img src="https://doc-10-1g-mymaps.googleusercontent.com/untrusted/hostedimage/g685sju71i6dkbkrljgnaectpk/lr868vtsfefelkrpddca4eq7ec/1582092000000/6LUSyvvoJfA0gXzQuuvXMHMX0yA9ZZ_5/07434178195286083876/1AF2TALpg1idZpnLFGCnseJvLBcw2E80xY1r_KobYWJ8j_bjiFMTtDSBsfSdgLiNEnpq0fzp8OxG0ufgihBnkCl_OYMOmnZikhPg8QTQabqGlpUbxSeJbJ0quoYXBSrHfpa_hKCuFferK8TqE5w3_uypO4KQGv1zRKhYJO3WHDB2UeRcxd2p17cPWusMx-_jdS07UbELEiBP6hzLmZJ1C2ewG4VlNnRAehBJaJ8fEsdUiHXy1NAmlVgxPtfsHIqR_o0Nf_ZN1y5fDgOra5ASoiFUSKUVCblp8Zg?session=0&fife" height="200" width="auto" /><br><br>The Grand Canyon Chiang Mai is a large quarry that has been filled with water and is a popular spot for swimming and cliff jumping.<br><br>The Grand Canyon is now also home to a nearby inflatable Aqua Water Park where you can run, jump, bounce climb and flip in a safe environment.<br><br>8am - 6pm]]></description>
+      <styleUrl>#icon-ci-1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-1g-mymaps.googleusercontent.com/untrusted/hostedimage/g685sju71i6dkbkrljgnaectpk/lr868vtsfefelkrpddca4eq7ec/1582092000000/6LUSyvvoJfA0gXzQuuvXMHMX0yA9ZZ_5/07434178195286083876/1AF2TALpg1idZpnLFGCnseJvLBcw2E80xY1r_KobYWJ8j_bjiFMTtDSBsfSdgLiNEnpq0fzp8OxG0ufgihBnkCl_OYMOmnZikhPg8QTQabqGlpUbxSeJbJ0quoYXBSrHfpa_hKCuFferK8TqE5w3_uypO4KQGv1zRKhYJO3WHDB2UeRcxd2p17cPWusMx-_jdS07UbELEiBP6hzLmZJ1C2ewG4VlNnRAehBJaJ8fEsdUiHXy1NAmlVgxPtfsHIqR_o0Nf_ZN1y5fDgOra5ASoiFUSKUVCblp8Zg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          98.8920875,18.6960043,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chiang Mai Night Bazaar</name>
+      <description><![CDATA[<img src="https://doc-0k-1g-mymaps.googleusercontent.com/untrusted/hostedimage/g685sju71i6dkbkrljgnaectpk/ku5uuucjv42htmtqk5n15vvrhk/1582092000000/6LUSyvvoJfA0gXzQuuvXMHMX0yA9ZZ_5/07434178195286083876/1AF2TALotbIhZT45_o4s5C1beFIzMkIdIblN8UzVuMFhtGsKHNwl7adUgkVeSixVeU9QIMaj9wsoLyUoxNvAOAR653LIT4JvnV6inpjGbUGings3FfgkaFs6nL3gkvs_vq_w4n2jTLm-lRhk846Aep8ev6AjUu4pcDOlEYlAgy0_8gdXS5Kw57U9tj0hbPQmyW5sMAKjO4baOA7JHjFF4pZNlxh-Gc-TbH77Xxm7lmvDRuHZiLnXU9o1ld2USCrK3aUyetmIXG2LiuvHCCB_lNF2vOaieAifkfw?session=0&fife" height="200" width="auto" /><br><br>Chiang Mai Night Bazaar is one of the city’s main night-time attractions, especially for families, and is the legacy of the original Yunnanese trading caravans that stopped here along the ancient route between Simao (China) and Mawlamyaing (on Myanmar’s Gulf of Martaban). Today the night bazaar sells the usual tourist souvenirs, similar to what you’ll find at Bangkok’s street markets.]]></description>
+      <styleUrl>#icon-ci-2</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-1g-mymaps.googleusercontent.com/untrusted/hostedimage/g685sju71i6dkbkrljgnaectpk/ku5uuucjv42htmtqk5n15vvrhk/1582092000000/6LUSyvvoJfA0gXzQuuvXMHMX0yA9ZZ_5/07434178195286083876/1AF2TALotbIhZT45_o4s5C1beFIzMkIdIblN8UzVuMFhtGsKHNwl7adUgkVeSixVeU9QIMaj9wsoLyUoxNvAOAR653LIT4JvnV6inpjGbUGings3FfgkaFs6nL3gkvs_vq_w4n2jTLm-lRhk846Aep8ev6AjUu4pcDOlEYlAgy0_8gdXS5Kw57U9tj0hbPQmyW5sMAKjO4baOA7JHjFF4pZNlxh-Gc-TbH77Xxm7lmvDRuHZiLnXU9o1ld2USCrK3aUyetmIXG2LiuvHCCB_lNF2vOaieAifkfw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          99.0002766,18.785274,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Warm Up Cafe</name>
+      <description><![CDATA[<img src="https://doc-08-1g-mymaps.googleusercontent.com/untrusted/hostedimage/g685sju71i6dkbkrljgnaectpk/h5bum4v2rfo5ap32i1j11qp250/1582092000000/6LUSyvvoJfA0gXzQuuvXMHMX0yA9ZZ_5/07434178195286083876/1AF2TALqPS1ASztbQoYmsRcua7DaV4CP04pmCYGNg8KdQKGZVAxA-UITMExS0SoX36hN7dC1uStkoC5kUwdFjlP_uYEro7-LtgE6QCSC3gOKhuGnPj1spop8F4LBlNY150qZ85wqWgsimQ0gdm46VNMxtKRp4_qy0U2HNdflDGWe7gfFqYxkE1Ni-c5ike4SHfe6M7j0keFh-j83gNSLS5Xri5fif3Zzzt3u_9mGNve12zubzhwbi2nceCikqenyPHR1cnlKL-4UJaWXccf0xwSmeXaIZjCt1Kw?session=0&fife" height="200" width="auto" /><br><br>WARM UP has opened in 1999 and has become the nightlife institution in Chiang Mai. The venue features 3 distinct zones: The outdoor stage with live live bands playing Indie Pop/Rock & Ska, the main room with live bands playing Pop-Rock music followed by DJs playing EDM, as well as the lounge room with DJs playing Hip Hop, House, Big Beat & Breakbeats, Drum&Bass and more. The lounge room is only open on Fridays & Saturdays from 8pm to 2am. The beverage menu features a variety of creative signature cocktails, a broad selection of spirits, draft & bottled beers, sangria and a selection of wines, sparkling wines & champagne. The menu features Thai & Chinese food and there is even a Sushi bar. The venue also features a pool table and has its own souvenir shop. Warm Up hosts monthly special events with guest DJs from Bangkok or popular bands & artists such as 25 hours, Jetset'er, ETC, Two Poptorn, Lomosonic to name a few. Opening times are from daily from 6pm to 1am.]]></description>
+      <styleUrl>#icon-ci-3</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-1g-mymaps.googleusercontent.com/untrusted/hostedimage/g685sju71i6dkbkrljgnaectpk/h5bum4v2rfo5ap32i1j11qp250/1582092000000/6LUSyvvoJfA0gXzQuuvXMHMX0yA9ZZ_5/07434178195286083876/1AF2TALqPS1ASztbQoYmsRcua7DaV4CP04pmCYGNg8KdQKGZVAxA-UITMExS0SoX36hN7dC1uStkoC5kUwdFjlP_uYEro7-LtgE6QCSC3gOKhuGnPj1spop8F4LBlNY150qZ85wqWgsimQ0gdm46VNMxtKRp4_qy0U2HNdflDGWe7gfFqYxkE1Ni-c5ike4SHfe6M7j0keFh-j83gNSLS5Xri5fif3Zzzt3u_9mGNve12zubzhwbi2nceCikqenyPHR1cnlKL-4UJaWXccf0xwSmeXaIZjCt1Kw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          98.9649621,18.7951758,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>infinity club</name>
+      <description><![CDATA[<img src="https://doc-0o-1g-mymaps.googleusercontent.com/untrusted/hostedimage/g685sju71i6dkbkrljgnaectpk/a6re4a0nahik20igtgvu201ugc/1582092000000/6LUSyvvoJfA0gXzQuuvXMHMX0yA9ZZ_5/07434178195286083876/1AF2TALqqf-TLod42Cqjx35nDB92UrR2kkklhob_VVAe_2-jhrZSJ6-PRJ43IEy94zzzqnjqSkGH-qG0CElwcZcwQq1kb5C2EbkiQDmZUTGbR6QTVVVtC-6SGYAbCrZgloQ8fWjN1EPtGGdE1Mq3-17Sc5X9GlmBzT0IK8wfOvuinuBTLVxXthK3S0x57sTrttf7TPusQRAbW4KyY5Xp-zhEc9vUKxTr0OJxIS1vb501PRz_1wQUq5vwXU3cPKa8MqRi781bT3n3XPsVhnYndvE30EUf_0sVoiw?session=0&fife" height="200" width="auto" /><br><br>Infinity Club Chiang Mai is a large nightclub playing a mix of electronic, dance and house music. It is located between Nimmanhaemin Road and Chiang Mai University, and is walking distance to other nightclubs, such as Tawandang and Warm Up Café. The club is open every evening from 18:00 and is one of the main hangouts for international expats and tourists. Lots of Thais also go to party there on the weekends. It starts to get busy around 21:00 and, while it officially closes at midnight, sometimes it stays open to as late as 02:00.<br><br>Read more at: http://www.chiangmai.bangkok.com/nightlife/infinity-club-chiang-mai.htm?cid=ch:OTH:001]]></description>
+      <styleUrl>#icon-ci-3</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-1g-mymaps.googleusercontent.com/untrusted/hostedimage/g685sju71i6dkbkrljgnaectpk/a6re4a0nahik20igtgvu201ugc/1582092000000/6LUSyvvoJfA0gXzQuuvXMHMX0yA9ZZ_5/07434178195286083876/1AF2TALqqf-TLod42Cqjx35nDB92UrR2kkklhob_VVAe_2-jhrZSJ6-PRJ43IEy94zzzqnjqSkGH-qG0CElwcZcwQq1kb5C2EbkiQDmZUTGbR6QTVVVtC-6SGYAbCrZgloQ8fWjN1EPtGGdE1Mq3-17Sc5X9GlmBzT0IK8wfOvuinuBTLVxXthK3S0x57sTrttf7TPusQRAbW4KyY5Xp-zhEc9vUKxTr0OJxIS1vb501PRz_1wQUq5vwXU3cPKa8MqRi781bT3n3XPsVhnYndvE30EUf_0sVoiw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          98.9636934,18.7982362,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zoe in Yellow</name>
+      <description><![CDATA[<img src="https://doc-04-1g-mymaps.googleusercontent.com/untrusted/hostedimage/g685sju71i6dkbkrljgnaectpk/sbsj812ogi650b7i4fkplpjv0g/1582092000000/6LUSyvvoJfA0gXzQuuvXMHMX0yA9ZZ_5/07434178195286083876/1AF2TALqsDPToNkUMYNc6U6REyMt4dVFGDDdkdCEUKtTmR-frRezkOdm0QeHGaahk4So7UP3CSwQkbGDo7insLFBn9Of-VL8qkabvFgEmXlZZ7oCvmFMOZXNEzjGWSEoldWuYlLVg-pQmy3GCaZ6djDnFApdl-kbOh_CdWqOEKkwOsER4F7DpEaAeArfPi99q7Z5XFEmIdP-hEKvIDZ-apLXlIOSzieQtOjuhLt17GwIjnGJDqDAVREIJkYqrzxpTED2EKa4JB5q4VwafK8_SCfThBF3MALamyg?session=0&fife" height="200" width="auto" /><br><br>Zoe in Yellow is the number one party venue for every traveller under 35 years old in Chiang Mai. It is a bar with a dance floor, surrounded by seven other bars each offering slightly different music, ranging from dance, pop, hip hop to drum'n'bass, techno and reggae. Zoe in Yellow is located on a street corner right in the middle of the Old City. Everybody knows it, so if you can’t find it you can either ask or follow the music. Zoe in Yellow is open every evening from sunset until midnight, and there are always foreign travellers dancing and drinking. Drinks are very reasonable in all the bars, with a beer at Zoe in Yellow costing around 60 Baht and a cocktail 100 Baht. While there is no food available at the bar, the next door neighbour serves authentic Indian food and after 10pm a kebab van arrives to feed hungry partiers. It is said that you haven’t visited Chiang Mai until you have had a drink at Zoe in Yellow! Read more at: http://www.chiangmai.bangkok.com/nightlife/zoe-in-yellow.htm?cid=ch:OTH:001<br><br>Read more at: http://www.chiangmai.bangkok.com/nightlife/zoe-in-yellow.htm?cid=ch:OTH:001]]></description>
+      <styleUrl>#icon-ci-3</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-1g-mymaps.googleusercontent.com/untrusted/hostedimage/g685sju71i6dkbkrljgnaectpk/sbsj812ogi650b7i4fkplpjv0g/1582092000000/6LUSyvvoJfA0gXzQuuvXMHMX0yA9ZZ_5/07434178195286083876/1AF2TALqsDPToNkUMYNc6U6REyMt4dVFGDDdkdCEUKtTmR-frRezkOdm0QeHGaahk4So7UP3CSwQkbGDo7insLFBn9Of-VL8qkabvFgEmXlZZ7oCvmFMOZXNEzjGWSEoldWuYlLVg-pQmy3GCaZ6djDnFApdl-kbOh_CdWqOEKkwOsER4F7DpEaAeArfPi99q7Z5XFEmIdP-hEKvIDZ-apLXlIOSzieQtOjuhLt17GwIjnGJDqDAVREIJkYqrzxpTED2EKa4JB5q4VwafK8_SCfThBF3MALamyg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          98.9904319,18.7909067,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Balloon Adventure Thailand</name>
+      <description><![CDATA[<img src="https://doc-10-1g-mymaps.googleusercontent.com/untrusted/hostedimage/g685sju71i6dkbkrljgnaectpk/1siq58ak67h60nq2f4ef710io0/1582092000000/6LUSyvvoJfA0gXzQuuvXMHMX0yA9ZZ_5/07434178195286083876/1AF2TALpRmFfiG2Xsf0CCW-DHT8lHMuCruV4XSOoyhTY3h_qhuSHno7myq7cCnDA53LT3vEmFrzaQ5jGZhJFltjMUwJWX6o8pEvl1ZxcRIoscJh6bPvZFyFo5V2nz5LEBc-CkQJAwsMneHNl5wS6o86-Ild65NfAzOEL_ESXxXnnRJHktnUBSZs7n31NTUs5VABS640Q2zuVwT1R4k64hyazD_CmlqSBj_Ngj8qUq28QqNnQwUcCwwyPVvH3H-bQyj31QH6r0IKduULNcYgX8bsxQGOAHfXynHA?session=0&fife" height="200" width="auto" /><br><br>The best and the most extraordinary activity in Chiangmai that anyone should not missed. Start off your day with our sky tour in the early morning.<br><br> 6:00 AM - 9:00 AM]]></description>
+      <styleUrl>#icon-1838-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-1g-mymaps.googleusercontent.com/untrusted/hostedimage/g685sju71i6dkbkrljgnaectpk/1siq58ak67h60nq2f4ef710io0/1582092000000/6LUSyvvoJfA0gXzQuuvXMHMX0yA9ZZ_5/07434178195286083876/1AF2TALpRmFfiG2Xsf0CCW-DHT8lHMuCruV4XSOoyhTY3h_qhuSHno7myq7cCnDA53LT3vEmFrzaQ5jGZhJFltjMUwJWX6o8pEvl1ZxcRIoscJh6bPvZFyFo5V2nz5LEBc-CkQJAwsMneHNl5wS6o86-Ild65NfAzOEL_ESXxXnnRJHktnUBSZs7n31NTUs5VABS640Q2zuVwT1R4k64hyazD_CmlqSBj_Ngj8qUq28QqNnQwUcCwwyPVvH3H-bQyj31QH6r0IKduULNcYgX8bsxQGOAHfXynHA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          99.0996769999999,18.856416,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

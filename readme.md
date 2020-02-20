@@ -88,3 +88,40 @@ function GEOCODE_YANDEX(address) {
 ```
 
 ***Source: https://discourse.looker.com/t/get-latitude-longitude-for-any-location-through-google-sheets-and-plot-these-in-looker/5402***
+
+## Style template for icons
+
+```
+<Style id="icon-ci-partying-normal">
+  <IconStyle>
+    <scale>1</scale>
+    <Icon>
+      <href>images/partying.png</href>
+    </Icon>
+  </IconStyle>
+  <LabelStyle>
+    <scale>0</scale>
+  </LabelStyle>
+</Style>
+<Style id="icon-ci-partying-highlight">
+  <IconStyle>
+    <scale>1</scale>
+    <Icon>
+      <href>images/partying.png</href>
+    </Icon>
+  </IconStyle>
+  <LabelStyle>
+    <scale>1</scale>
+  </LabelStyle>
+</Style>
+<StyleMap id="icon-ci-partying">
+  <Pair>
+    <key>normal</key>
+    <styleUrl>#icon-ci-partying-normal</styleUrl>
+  </Pair>
+  <Pair>
+    <key>highlight</key>
+    <styleUrl>#icon-ci-partying-highlight</styleUrl>
+  </Pair>
+</StyleMap>
+```

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <kml xmlns="http://www.opengis.net/kml/2.2">
     <Document>
-      <Style id="icon-partying-normal">
+      <Style id="icon-ci-partying-normal">
         <IconStyle>
           <scale>1</scale>
           <Icon>
@@ -12,7 +12,7 @@
           <scale>0</scale>
         </LabelStyle>
       </Style>
-      <Style id="icon-partying-highlight">
+      <Style id="icon-ci-partying-highlight">
         <IconStyle>
           <scale>1</scale>
           <Icon>
@@ -23,46 +23,46 @@
           <scale>1</scale>
         </LabelStyle>
       </Style>
-      <StyleMap id="icon-partying">
+      <StyleMap id="icon-ci-partying">
         <Pair>
           <key>normal</key>
-          <styleUrl>#icon-partying-normal</styleUrl>
+          <styleUrl>#icon-ci-partying-normal</styleUrl>
         </Pair>
         <Pair>
           <key>highlight</key>
-          <styleUrl>#icon-partying-highlight</styleUrl>
+          <styleUrl>#icon-ci-partying-highlight</styleUrl>
         </Pair>
       </StyleMap>
-      <Style id="icon-ci-explore-normal">
+      <Style id="icon-ci-exploration-normal">
         <IconStyle>
           <scale>1.1</scale>
           <Icon>
-            <href>images/explore.png</href>
+            <href>images/exploration.png</href>
           </Icon>
         </IconStyle>
         <LabelStyle>
           <scale>0</scale>
         </LabelStyle>
       </Style>
-      <Style id="icon-ci-explore-highlight">
+      <Style id="icon-ci-exploration-highlight">
         <IconStyle>
           <scale>1.1</scale>
           <Icon>
-            <href>images/explore.png</href>
+            <href>images/exploration.png</href>
           </Icon>
         </IconStyle>
         <LabelStyle>
           <scale>1.1</scale>
         </LabelStyle>
       </Style>
-      <StyleMap id="icon-ci-explore">
+      <StyleMap id="icon-ci-exploration">
         <Pair>
           <key>normal</key>
-          <styleUrl>#icon-ci-explore-normal</styleUrl>
+          <styleUrl>#icon-ci-exploration-normal</styleUrl>
         </Pair>
         <Pair>
           <key>highlight</key>
-          <styleUrl>#icon-ci-explore-highlight</styleUrl>
+          <styleUrl>#icon-ci-exploration-highlight</styleUrl>
         </Pair>
       </StyleMap>
       <Style id="icon-ci-food-normal">
@@ -97,68 +97,68 @@
           <styleUrl>#icon-ci-food-highlight</styleUrl>
         </Pair>
       </StyleMap>
-      <Style id="icon-ci-fun_activities-normal">
+      <Style id="icon-ci-hangout-normal">
         <IconStyle>
           <scale>1.1</scale>
           <Icon>
-            <href>images/fun_activities.png</href>
+            <href>images/hangout.png</href>
           </Icon>
         </IconStyle>
         <LabelStyle>
           <scale>0</scale>
         </LabelStyle>
       </Style>
-      <Style id="icon-ci-fun_activities-highlight">
+      <Style id="icon-ci-hangout-highlight">
         <IconStyle>
           <scale>1.1</scale>
           <Icon>
-            <href>images/fun_activities.png</href>
+            <href>images/hangout.png</href>
           </Icon>
         </IconStyle>
         <LabelStyle>
           <scale>1.1</scale>
         </LabelStyle>
       </Style>
-      <StyleMap id="icon-ci-fun_activities">
+      <StyleMap id="icon-ci-hangout">
         <Pair>
           <key>normal</key>
-          <styleUrl>#icon-ci-fun_activities-normal</styleUrl>
+          <styleUrl>#icon-ci-hangout-normal</styleUrl>
         </Pair>
         <Pair>
           <key>highlight</key>
-          <styleUrl>#icon-ci-fun_activities-highlight</styleUrl>
+          <styleUrl>#icon-ci-hangout-highlight</styleUrl>
         </Pair>
       </StyleMap>
-      <Style id="icon-ci-must_do-normal">
+      <Style id="icon-ci-to_do_before_you_die-normal">
         <IconStyle>
           <scale>1.1</scale>
           <Icon>
-            <href>images/must_do.png</href>
+            <href>images/to_do_before_you_die.png</href>
           </Icon>
         </IconStyle>
         <LabelStyle>
           <scale>0</scale>
         </LabelStyle>
       </Style>
-      <Style id="icon-ci-must_do-highlight">
+      <Style id="icon-ci-to_do_before_you_die-highlight">
         <IconStyle>
           <scale>1.1</scale>
           <Icon>
-            <href>images/must_do.png</href>
+            <href>images/to_do_before_you_die.png</href>
           </Icon>
         </IconStyle>
         <LabelStyle>
           <scale>1.1</scale>
         </LabelStyle>
       </Style>
-      <StyleMap id="icon-ci-must_do">
+      <StyleMap id="icon-ci-to_do_before_you_die">
         <Pair>
           <key>normal</key>
-          <styleUrl>#icon-ci-must_do-normal</styleUrl>
+          <styleUrl>#icon-ci-to_do_before_you_die-normal</styleUrl>
         </Pair>
         <Pair>
           <key>highlight</key>
-          <styleUrl>#icon-ci-must_do-highlight</styleUrl>
+          <styleUrl>#icon-ci-to_do_before_you_die-highlight</styleUrl>
         </Pair>
       </StyleMap>
       <Style id="icon-ci-mystery-normal">
@@ -193,7 +193,39 @@
           <styleUrl>#icon-ci-mystery-highlight</styleUrl>
         </Pair>
       </StyleMap>
-      <Style id="icon-ci-photo_op-normal">
+      <Style id="icon-ci-outdoorsy_things-normal">
+        <IconStyle>
+          <scale>1.1</scale>
+          <Icon>
+            <href>images/outdoorsy_things.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>0</scale>
+        </LabelStyle>
+      </Style>
+      <Style id="icon-ci-outdoorsy_things-highlight">
+        <IconStyle>
+          <scale>1.1</scale>
+          <Icon>
+            <href>images/outdoorsy_things.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1.1</scale>
+        </LabelStyle>
+      </Style>
+      <StyleMap id="icon-ci-outdoorsy_things">
+        <Pair>
+          <key>normal</key>
+          <styleUrl>#icon-ci-outdoorsy_things-normal</styleUrl>
+        </Pair>
+        <Pair>
+          <key>highlight</key>
+          <styleUrl>#icon-ci-outdoorsy_things-highlight</styleUrl>
+        </Pair>
+      </StyleMap>
+           <Style id="icon-ci-photo_op-normal">
         <IconStyle>
           <scale>1.1</scale>
           <Icon>
@@ -224,60 +256,232 @@
           <key>highlight</key>
           <styleUrl>#icon-ci-photo_op-highlight</styleUrl>
         </Pair>
-      </StyleMap><Placemark>
-      <name>Tibumana Waterfall</name>
-      <description><![CDATA[<img src="https://dailytravelpill.com/wp-content/uploads/2018/07/tibumana-waterfall-bali-6.jpg" height="200" width="auto" /><br><br>Just 45 minutes away from Ubud, there is this beautiful hidden gem called Tibumana Waterfall. Its perfect, straight stream of water made me fall in love with it instantly. Although you might find a few people at this waterfall, there won’t be any crowds. GET HERE EARLY TOO?]]></description>
-      <styleUrl>#icon-ci-must_do</styleUrl>
+      </StyleMap>
+      <Style id="icon-ci-relax-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>images/relax.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-ci-relax-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>images/relax.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-ci-relax">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-ci-relax-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-ci-relax-highlight</styleUrl>
+      </Pair>
+    </StyleMap><Placemark>
+      <name>Omnia Dayclub Uluwatu</name>
+      <description><![CDATA[<img src="https://d22ir9aoo7cbf6.cloudfront.net/wp-content/uploads/sites/4/2017/03/OMNIA-The-Cube-Bar-Credit-Martin-Westlake-1.jpg" height="200" width="auto" /><br><br>Beach club]]></description>
+      <styleUrl>#icon-ci-partying</styleUrl>
       <ExtendedData>
         <Data name="gx_media_links">
-          <value><![CDATA[https://dailytravelpill.com/wp-content/uploads/2018/07/tibumana-waterfall-bali-6.jpg]]></value>
+          <value><![CDATA[https://d22ir9aoo7cbf6.cloudfront.net/wp-content/uploads/sites/4/2017/03/OMNIA-The-Cube-Bar-Credit-Martin-Westlake-1.jpg]]></value>
         </Data>
       </ExtendedData>
       <Point>
         <coordinates>
-          115.3252352,-8.5073257,0
+           115.1405825,-8.8462806,undefined
         </coordinates>
       </Point>
     </Placemark><Placemark>
-      <name>Bangkiang Djaran Waterfall</name>
-      <description><![CDATA[<img src="https://dailytravelpill.com/wp-content/uploads/2018/07/bangkiang-djaran-waterfall-bali.jpg" height="200" width="auto" /><br><br>A bit further from Ubud than Tibumana Waterfall, Bangkiang Djaran Waterfall is trully a hidden place. Although the access to this waterfall is easy, it somehow got overlooked by tourists.]]></description>
-      <styleUrl>#icon-ci-explore</styleUrl>
+      <name>Sundays Beach Club</name>
+      <description><![CDATA[<img src="https://d22ir9aoo7cbf6.cloudfront.net/wp-content/uploads/sites/4/2016/06/Sundays-Beach-Club-4.jpg" height="200" width="auto" /><br><br>Beautiful beach club with crystal clear waters and awesome bonfires. $37/p entry]]></description>
+      <styleUrl>#icon-ci-partying</styleUrl>
       <ExtendedData>
         <Data name="gx_media_links">
-          <value><![CDATA[https://dailytravelpill.com/wp-content/uploads/2018/07/bangkiang-djaran-waterfall-bali.jpg]]></value>
+          <value><![CDATA[https://d22ir9aoo7cbf6.cloudfront.net/wp-content/uploads/sites/4/2016/06/Sundays-Beach-Club-4.jpg]]></value>
         </Data>
       </ExtendedData>
       <Point>
         <coordinates>
-          115.339904,-8.503542,0
+           115.1500935,-8.8456792,undefined
         </coordinates>
       </Point>
     </Placemark><Placemark>
-      <name>Tukad Cepung Waterfall</name>
-      <description><![CDATA[<img src="https://dailytravelpill.com/wp-content/uploads/2018/07/tukad-cepung-waterfall-bali-4.jpg" height="200" width="auto" /><br><br>A rising star among Instagrammers is Tukad Cepung Waterfall, one of the most beautiful waterfalls in Asia. It is well known due to the majestic rocks that surround it and the light rays which offer an incredible spectacle. MUST GET HERE EARLY!]]></description>
-      <styleUrl>#icon-ci-explore</styleUrl>
+      <name>Oneeighty uluwatu</name>
+      <description><![CDATA[<img src="https://d22ir9aoo7cbf6.cloudfront.net/wp-content/uploads/sites/4/2016/07/21427266_1093911840753178_734721439640004705_o.jpg" height="200" width="auto" /><br><br>Beach club - roughly 450,000 RP ($40) pp. Beautiful pool with a see through bottom. https://www.oneeightybali.com/ RESERVATIONS REQUIRED]]></description>
+      <styleUrl>#icon-ci-partying</styleUrl>
       <ExtendedData>
         <Data name="gx_media_links">
-          <value><![CDATA[https://dailytravelpill.com/wp-content/uploads/2018/07/tukad-cepung-waterfall-bali-4.jpg]]></value>
+          <value><![CDATA[https://d22ir9aoo7cbf6.cloudfront.net/wp-content/uploads/sites/4/2016/07/21427266_1093911840753178_734721439640004705_o.jpg]]></value>
         </Data>
       </ExtendedData>
       <Point>
         <coordinates>
-          115.3852898,-8.4408339,0
+           115.1253007,-8.846178,undefined
         </coordinates>
       </Point>
     </Placemark><Placemark>
-      <name>Pengempu Waterfall</name>
-      <description><![CDATA[<img src="https://media-cdn.tripadvisor.com/media/photo-m/1280/15/2a/a8/24/chilling-in-the-water.jpg" height="200" width="auto" /><br><br>Small, chill waterfall]]></description>
-      <styleUrl>#icon-ci-explore</styleUrl>
+      <name>Ulu cliffhouse</name>
+      <description><![CDATA[<img src="https://www.theyakmag.com/wp-content/uploads/2017/11/ulu-criftop3.jpg" height="200" width="auto" /><br><br>Beach club - Requires minimum spend of $100 to swim - https://ulucliffhouse.com/]]></description>
+      <styleUrl>#icon-ci-partying</styleUrl>
       <ExtendedData>
         <Data name="gx_media_links">
-          <value><![CDATA[https://media-cdn.tripadvisor.com/media/photo-m/1280/15/2a/a8/24/chilling-in-the-water.jpg]]></value>
+          <value><![CDATA[https://www.theyakmag.com/wp-content/uploads/2017/11/ulu-criftop3.jpg]]></value>
         </Data>
       </ExtendedData>
       <Point>
         <coordinates>
-          115.2012778,-8.469335,0
+           115.0916123,-8.813998,undefined
+        </coordinates>
+      </Point>
+    </Placemark><Placemark>
+      <name>Korang Boma</name>
+      <description><![CDATA[<img src="https://media-cdn.tripadvisor.com/media/photo-m/1280/17/90/ec/5a/karang-boma-cliff.jpg" height="200" width="auto" /><br><br>Absolutely stunning cliffside spot to watch the sunset]]></description>
+      <styleUrl>#icon-ci-to_do_before_you_die</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://media-cdn.tripadvisor.com/media/photo-m/1280/17/90/ec/5a/karang-boma-cliff.jpg]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+           115.0874718,-8.8339299,undefined
+        </coordinates>
+      </Point>
+    </Placemark><Placemark>
+      <name>Pura Luhur</name>
+      <description><![CDATA[<img src="https://i.pinimg.com/originals/68/eb/da/68ebdada61c9e423dcd95eafd8151f25.jpg" height="200" width="auto" /><br><br>They do fire dances at night. In the morning, it's a very picturesque spot to take an instagram pic. Can try to arrange for a 2 for 1 package deal to watch the fire dance then get dinner.]]></description>
+      <styleUrl>#icon-ci-to_do_before_you_die</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://i.pinimg.com/originals/68/eb/da/68ebdada61c9e423dcd95eafd8151f25.jpg]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+           115.0849069,-8.829143199999999,undefined
+        </coordinates>
+      </Point>
+    </Placemark><Placemark>
+      <name>Suluban Beach</name>
+      <description><![CDATA[<img src="https://lh5.googleusercontent.com/p/AF1QipNMauJkJekeZBmoyeAo3LwpNbl-4kBogVTA4yUu=w408-h510-k-no" height="200" width="auto" /><br><br>Beautiful beach spot]]></description>
+      <styleUrl>#icon-ci-to_do_before_you_die</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://lh5.googleusercontent.com/p/AF1QipNMauJkJekeZBmoyeAo3LwpNbl-4kBogVTA4yUu=w408-h510-k-no]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+           115.0882875,-8.816017100000002,undefined
+        </coordinates>
+      </Point>
+    </Placemark><Placemark>
+      <name>Single Fins uluwatu</name>
+      <description><![CDATA[<img src="https://bb.trvcdn.net/uploads/galleries/single+fin+2_1516695275.jpg" height="200" width="auto" /><br><br>Sunday parties are great here.]]></description>
+      <styleUrl>#icon-ci-partying</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://bb.trvcdn.net/uploads/galleries/single+fin+2_1516695275.jpg]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+           115.0888956,-8.8149719,undefined
+        </coordinates>
+      </Point>
+    </Placemark><Placemark>
+      <name>PADANG PADANG BEACH</name>
+      <description><![CDATA[<img src="https://jonnymelon.com/wp-content/uploads/2018/11/padang-padang-beach-2.jpg" height="200" width="auto" /><br><br>Nice beach with saturday night parties]]></description>
+      <styleUrl>#icon-ci-partying</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://jonnymelon.com/wp-content/uploads/2018/11/padang-padang-beach-2.jpg]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+           115.1037658,-8.8111377,undefined
+        </coordinates>
+      </Point>
+    </Placemark><Placemark>
+      <name>Karang Boma Cliff</name>
+      <description><![CDATA[<img src="https://lh5.googleusercontent.com/p/AF1QipOx2PCOLiiRkbXryhhT5jrn5K5WMNPsjwElHCWD=w408-h510-k-no" height="200" width="auto" /><br><br>Huge cliff that people can fall right off]]></description>
+      <styleUrl>#icon-ci-photo_op</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://lh5.googleusercontent.com/p/AF1QipOx2PCOLiiRkbXryhhT5jrn5K5WMNPsjwElHCWD=w408-h510-k-no]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+           115.0874718,-8.8339299,undefined
+        </coordinates>
+      </Point>
+    </Placemark><Placemark>
+      <name>The Rolling Fork uluwatu</name>
+      <description><![CDATA[<img src="https://solarpoweredblonde.com/wp-content/uploads/2019/06/03-1.jpg" height="200" width="auto" /><br><br>Cheap place with cheap eats - $5/meal]]></description>
+      <styleUrl>#icon-ci-food</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://solarpoweredblonde.com/wp-content/uploads/2019/06/03-1.jpg]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+           115.1137654,-8.817258299999999,undefined
+        </coordinates>
+      </Point>
+    </Placemark><Placemark>
+      <name>The Loft uluwatu</name>
+      <description><![CDATA[<img src="https://solarpoweredblonde.com/wp-content/uploads/2019/06/07-1.jpg" height="200" width="auto" /><br><br>Poached eggs with avocado toast]]></description>
+      <styleUrl>#icon-ci-food</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://solarpoweredblonde.com/wp-content/uploads/2019/06/07-1.jpg]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+           115.1123999,-8.8144061,undefined
+        </coordinates>
+      </Point>
+    </Placemark><Placemark>
+      <name>The Drifter uluwatu</name>
+      <description><![CDATA[<img src="https://solarpoweredblonde.com/wp-content/uploads/2019/06/01-1.jpg" height="200" width="auto" /><br><br>Brunch spot]]></description>
+      <styleUrl>#icon-ci-food</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://solarpoweredblonde.com/wp-content/uploads/2019/06/01-1.jpg]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+           115.1123388,-8.8150544,undefined
+        </coordinates>
+      </Point>
+    </Placemark><Placemark>
+      <name>Bingin Beach</name>
+      <description><![CDATA[<img src="https://boardingcallblog.com/wp-content/uploads/2017/03/bingin.jpg" height="200" width="auto" /><br><br>Great beach spot]]></description>
+      <styleUrl>#icon-ci-exploration</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://boardingcallblog.com/wp-content/uploads/2017/03/bingin.jpg]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+           115.1130376,-8.8056919,undefined
         </coordinates>
       </Point>
     </Placemark></Document>

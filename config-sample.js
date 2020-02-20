@@ -6,7 +6,7 @@ kml = {
   doc01: `<?xml version="1.0" encoding="UTF-8"?>
   <kml xmlns="http://www.opengis.net/kml/2.2">
     <Document>
-      <Style id="icon-partying-normal">
+      <Style id="icon-ci-partying-normal">
         <IconStyle>
           <scale>1</scale>
           <Icon>
@@ -17,7 +17,7 @@ kml = {
           <scale>0</scale>
         </LabelStyle>
       </Style>
-      <Style id="icon-partying-highlight">
+      <Style id="icon-ci-partying-highlight">
         <IconStyle>
           <scale>1</scale>
           <Icon>
@@ -28,46 +28,46 @@ kml = {
           <scale>1</scale>
         </LabelStyle>
       </Style>
-      <StyleMap id="icon-partying">
+      <StyleMap id="icon-ci-partying">
         <Pair>
           <key>normal</key>
-          <styleUrl>#icon-partying-normal</styleUrl>
+          <styleUrl>#icon-ci-partying-normal</styleUrl>
         </Pair>
         <Pair>
           <key>highlight</key>
-          <styleUrl>#icon-partying-highlight</styleUrl>
+          <styleUrl>#icon-ci-partying-highlight</styleUrl>
         </Pair>
       </StyleMap>
-      <Style id="icon-ci-explore-normal">
+      <Style id="icon-ci-exploration-normal">
         <IconStyle>
           <scale>1.1</scale>
           <Icon>
-            <href>images/explore.png</href>
+            <href>images/exploration.png</href>
           </Icon>
         </IconStyle>
         <LabelStyle>
           <scale>0</scale>
         </LabelStyle>
       </Style>
-      <Style id="icon-ci-explore-highlight">
+      <Style id="icon-ci-exploration-highlight">
         <IconStyle>
           <scale>1.1</scale>
           <Icon>
-            <href>images/explore.png</href>
+            <href>images/exploration.png</href>
           </Icon>
         </IconStyle>
         <LabelStyle>
           <scale>1.1</scale>
         </LabelStyle>
       </Style>
-      <StyleMap id="icon-ci-explore">
+      <StyleMap id="icon-ci-exploration">
         <Pair>
           <key>normal</key>
-          <styleUrl>#icon-ci-explore-normal</styleUrl>
+          <styleUrl>#icon-ci-exploration-normal</styleUrl>
         </Pair>
         <Pair>
           <key>highlight</key>
-          <styleUrl>#icon-ci-explore-highlight</styleUrl>
+          <styleUrl>#icon-ci-exploration-highlight</styleUrl>
         </Pair>
       </StyleMap>
       <Style id="icon-ci-food-normal">
@@ -102,68 +102,68 @@ kml = {
           <styleUrl>#icon-ci-food-highlight</styleUrl>
         </Pair>
       </StyleMap>
-      <Style id="icon-ci-fun_activities-normal">
+      <Style id="icon-ci-hangout-normal">
         <IconStyle>
           <scale>1.1</scale>
           <Icon>
-            <href>images/fun_activities.png</href>
+            <href>images/hangout.png</href>
           </Icon>
         </IconStyle>
         <LabelStyle>
           <scale>0</scale>
         </LabelStyle>
       </Style>
-      <Style id="icon-ci-fun_activities-highlight">
+      <Style id="icon-ci-hangout-highlight">
         <IconStyle>
           <scale>1.1</scale>
           <Icon>
-            <href>images/fun_activities.png</href>
+            <href>images/hangout.png</href>
           </Icon>
         </IconStyle>
         <LabelStyle>
           <scale>1.1</scale>
         </LabelStyle>
       </Style>
-      <StyleMap id="icon-ci-fun_activities">
+      <StyleMap id="icon-ci-hangout">
         <Pair>
           <key>normal</key>
-          <styleUrl>#icon-ci-fun_activities-normal</styleUrl>
+          <styleUrl>#icon-ci-hangout-normal</styleUrl>
         </Pair>
         <Pair>
           <key>highlight</key>
-          <styleUrl>#icon-ci-fun_activities-highlight</styleUrl>
+          <styleUrl>#icon-ci-hangout-highlight</styleUrl>
         </Pair>
       </StyleMap>
-      <Style id="icon-ci-must_do-normal">
+      <Style id="icon-ci-to_do_before_you_die-normal">
         <IconStyle>
           <scale>1.1</scale>
           <Icon>
-            <href>images/must_do.png</href>
+            <href>images/to_do_before_you_die.png</href>
           </Icon>
         </IconStyle>
         <LabelStyle>
           <scale>0</scale>
         </LabelStyle>
       </Style>
-      <Style id="icon-ci-must_do-highlight">
+      <Style id="icon-ci-to_do_before_you_die-highlight">
         <IconStyle>
           <scale>1.1</scale>
           <Icon>
-            <href>images/must_do.png</href>
+            <href>images/to_do_before_you_die.png</href>
           </Icon>
         </IconStyle>
         <LabelStyle>
           <scale>1.1</scale>
         </LabelStyle>
       </Style>
-      <StyleMap id="icon-ci-must_do">
+      <StyleMap id="icon-ci-to_do_before_you_die">
         <Pair>
           <key>normal</key>
-          <styleUrl>#icon-ci-must_do-normal</styleUrl>
+          <styleUrl>#icon-ci-to_do_before_you_die-normal</styleUrl>
         </Pair>
         <Pair>
           <key>highlight</key>
-          <styleUrl>#icon-ci-must_do-highlight</styleUrl>
+          <styleUrl>#icon-ci-to_do_before_you_die-highlight</styleUrl>
         </Pair>
       </StyleMap>
       <Style id="icon-ci-mystery-normal">
@@ -198,7 +198,39 @@ kml = {
           <styleUrl>#icon-ci-mystery-highlight</styleUrl>
         </Pair>
       </StyleMap>
-      <Style id="icon-ci-photo_op-normal">
+      <Style id="icon-ci-outdoorsy_things-normal">
+        <IconStyle>
+          <scale>1.1</scale>
+          <Icon>
+            <href>images/outdoorsy_things.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>0</scale>
+        </LabelStyle>
+      </Style>
+      <Style id="icon-ci-outdoorsy_things-highlight">
+        <IconStyle>
+          <scale>1.1</scale>
+          <Icon>
+            <href>images/outdoorsy_things.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1.1</scale>
+        </LabelStyle>
+      </Style>
+      <StyleMap id="icon-ci-outdoorsy_things">
+        <Pair>
+          <key>normal</key>
+          <styleUrl>#icon-ci-outdoorsy_things-normal</styleUrl>
+        </Pair>
+        <Pair>
+          <key>highlight</key>
+          <styleUrl>#icon-ci-outdoorsy_things-highlight</styleUrl>
+        </Pair>
+      </StyleMap>
+           <Style id="icon-ci-photo_op-normal">
         <IconStyle>
           <scale>1.1</scale>
           <Icon>
@@ -229,7 +261,39 @@ kml = {
           <key>highlight</key>
           <styleUrl>#icon-ci-photo_op-highlight</styleUrl>
         </Pair>
-      </StyleMap>`,
+      </StyleMap>
+      <Style id="icon-ci-relax-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>images/relax.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-ci-relax-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>images/relax.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-ci-relax">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-ci-relax-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-ci-relax-highlight</styleUrl>
+      </Pair>
+    </StyleMap>`,
   doc03: `</Document>
   </kml>`
 }

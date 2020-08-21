@@ -289,199 +289,269 @@
         <styleUrl>#icon-ci-relax-highlight</styleUrl>
       </Pair>
     </StyleMap><Placemark>
-      <name>Omnia Dayclub Uluwatu</name>
-      <description><![CDATA[<img src="https://d22ir9aoo7cbf6.cloudfront.net/wp-content/uploads/sites/4/2017/03/OMNIA-The-Cube-Bar-Credit-Martin-Westlake-1.jpg" height="200" width="auto" /><br><br>Beach club]]></description>
-      <styleUrl>#icon-ci-partying</styleUrl>
+      <name>A roundtrip to Half Moon Bay</name>
+      <description><![CDATA[<img src="" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-ci-</styleUrl>
       <ExtendedData>
         <Data name="gx_media_links">
-          <value><![CDATA[https://d22ir9aoo7cbf6.cloudfront.net/wp-content/uploads/sites/4/2017/03/OMNIA-The-Cube-Bar-Credit-Martin-Westlake-1.jpg]]></value>
+          <value><![CDATA[]]></value>
         </Data>
       </ExtendedData>
       <Point>
         <coordinates>
-           115.1405825,-8.8462806,undefined
+          undefined,,0
         </coordinates>
       </Point>
     </Placemark><Placemark>
-      <name>Sundays Beach Club</name>
-      <description><![CDATA[<img src="https://d22ir9aoo7cbf6.cloudfront.net/wp-content/uploads/sites/4/2016/06/Sundays-Beach-Club-4.jpg" height="200" width="auto" /><br><br>Beautiful beach club with crystal clear waters and awesome bonfires. $37/p entry]]></description>
-      <styleUrl>#icon-ci-partying</styleUrl>
-      <ExtendedData>
-        <Data name="gx_media_links">
-          <value><![CDATA[https://d22ir9aoo7cbf6.cloudfront.net/wp-content/uploads/sites/4/2016/06/Sundays-Beach-Club-4.jpg]]></value>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>
-           115.1500935,-8.8456792,undefined
-        </coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <name>Oneeighty uluwatu</name>
-      <description><![CDATA[<img src="https://d22ir9aoo7cbf6.cloudfront.net/wp-content/uploads/sites/4/2016/07/21427266_1093911840753178_734721439640004705_o.jpg" height="200" width="auto" /><br><br>Beach club - roughly 450,000 RP ($40) pp. Beautiful pool with a see through bottom. https://www.oneeightybali.com/ RESERVATIONS REQUIRED]]></description>
-      <styleUrl>#icon-ci-partying</styleUrl>
-      <ExtendedData>
-        <Data name="gx_media_links">
-          <value><![CDATA[https://d22ir9aoo7cbf6.cloudfront.net/wp-content/uploads/sites/4/2016/07/21427266_1093911840753178_734721439640004705_o.jpg]]></value>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>
-           115.1253007,-8.846178,undefined
-        </coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <name>Ulu cliffhouse</name>
-      <description><![CDATA[<img src="https://www.theyakmag.com/wp-content/uploads/2017/11/ulu-criftop3.jpg" height="200" width="auto" /><br><br>Beach club - Requires minimum spend of $100 to swim - https://ulucliffhouse.com/]]></description>
-      <styleUrl>#icon-ci-partying</styleUrl>
-      <ExtendedData>
-        <Data name="gx_media_links">
-          <value><![CDATA[https://www.theyakmag.com/wp-content/uploads/2017/11/ulu-criftop3.jpg]]></value>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>
-           115.0916123,-8.813998,undefined
-        </coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <name>Korang Boma</name>
-      <description><![CDATA[<img src="https://media-cdn.tripadvisor.com/media/photo-m/1280/17/90/ec/5a/karang-boma-cliff.jpg" height="200" width="auto" /><br><br>Absolutely stunning cliffside spot to watch the sunset]]></description>
-      <styleUrl>#icon-ci-to_do_before_you_die</styleUrl>
-      <ExtendedData>
-        <Data name="gx_media_links">
-          <value><![CDATA[https://media-cdn.tripadvisor.com/media/photo-m/1280/17/90/ec/5a/karang-boma-cliff.jpg]]></value>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>
-           115.0874718,-8.8339299,undefined
-        </coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <name>Pura Luhur</name>
-      <description><![CDATA[<img src="https://i.pinimg.com/originals/68/eb/da/68ebdada61c9e423dcd95eafd8151f25.jpg" height="200" width="auto" /><br><br>They do fire dances at night. In the morning, it's a very picturesque spot to take an instagram pic. Can try to arrange for a 2 for 1 package deal to watch the fire dance then get dinner.]]></description>
-      <styleUrl>#icon-ci-to_do_before_you_die</styleUrl>
-      <ExtendedData>
-        <Data name="gx_media_links">
-          <value><![CDATA[https://i.pinimg.com/originals/68/eb/da/68ebdada61c9e423dcd95eafd8151f25.jpg]]></value>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>
-           115.0849069,-8.829143199999999,undefined
-        </coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <name>Suluban Beach</name>
-      <description><![CDATA[<img src="https://lh5.googleusercontent.com/p/AF1QipNMauJkJekeZBmoyeAo3LwpNbl-4kBogVTA4yUu=w408-h510-k-no" height="200" width="auto" /><br><br>Beautiful beach spot]]></description>
-      <styleUrl>#icon-ci-to_do_before_you_die</styleUrl>
-      <ExtendedData>
-        <Data name="gx_media_links">
-          <value><![CDATA[https://lh5.googleusercontent.com/p/AF1QipNMauJkJekeZBmoyeAo3LwpNbl-4kBogVTA4yUu=w408-h510-k-no]]></value>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>
-           115.0882875,-8.816017100000002,undefined
-        </coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <name>Single Fins uluwatu</name>
-      <description><![CDATA[<img src="https://bb.trvcdn.net/uploads/galleries/single+fin+2_1516695275.jpg" height="200" width="auto" /><br><br>Sunday parties are great here.]]></description>
-      <styleUrl>#icon-ci-partying</styleUrl>
-      <ExtendedData>
-        <Data name="gx_media_links">
-          <value><![CDATA[https://bb.trvcdn.net/uploads/galleries/single+fin+2_1516695275.jpg]]></value>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>
-           115.0888956,-8.8149719,undefined
-        </coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <name>PADANG PADANG BEACH</name>
-      <description><![CDATA[<img src="https://jonnymelon.com/wp-content/uploads/2018/11/padang-padang-beach-2.jpg" height="200" width="auto" /><br><br>Nice beach with saturday night parties]]></description>
-      <styleUrl>#icon-ci-partying</styleUrl>
-      <ExtendedData>
-        <Data name="gx_media_links">
-          <value><![CDATA[https://jonnymelon.com/wp-content/uploads/2018/11/padang-padang-beach-2.jpg]]></value>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>
-           115.1037658,-8.8111377,undefined
-        </coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <name>Karang Boma Cliff</name>
-      <description><![CDATA[<img src="https://lh5.googleusercontent.com/p/AF1QipOx2PCOLiiRkbXryhhT5jrn5K5WMNPsjwElHCWD=w408-h510-k-no" height="200" width="auto" /><br><br>Huge cliff that people can fall right off]]></description>
-      <styleUrl>#icon-ci-photo_op</styleUrl>
-      <ExtendedData>
-        <Data name="gx_media_links">
-          <value><![CDATA[https://lh5.googleusercontent.com/p/AF1QipOx2PCOLiiRkbXryhhT5jrn5K5WMNPsjwElHCWD=w408-h510-k-no]]></value>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>
-           115.0874718,-8.8339299,undefined
-        </coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <name>The Rolling Fork uluwatu</name>
-      <description><![CDATA[<img src="https://solarpoweredblonde.com/wp-content/uploads/2019/06/03-1.jpg" height="200" width="auto" /><br><br>Cheap place with cheap eats - $5/meal]]></description>
-      <styleUrl>#icon-ci-food</styleUrl>
-      <ExtendedData>
-        <Data name="gx_media_links">
-          <value><![CDATA[https://solarpoweredblonde.com/wp-content/uploads/2019/06/03-1.jpg]]></value>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>
-           115.1137654,-8.817258299999999,undefined
-        </coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <name>The Loft uluwatu</name>
-      <description><![CDATA[<img src="https://solarpoweredblonde.com/wp-content/uploads/2019/06/07-1.jpg" height="200" width="auto" /><br><br>Poached eggs with avocado toast]]></description>
-      <styleUrl>#icon-ci-food</styleUrl>
-      <ExtendedData>
-        <Data name="gx_media_links">
-          <value><![CDATA[https://solarpoweredblonde.com/wp-content/uploads/2019/06/07-1.jpg]]></value>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>
-           115.1123999,-8.8144061,undefined
-        </coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <name>The Drifter uluwatu</name>
-      <description><![CDATA[<img src="https://solarpoweredblonde.com/wp-content/uploads/2019/06/01-1.jpg" height="200" width="auto" /><br><br>Brunch spot]]></description>
-      <styleUrl>#icon-ci-food</styleUrl>
-      <ExtendedData>
-        <Data name="gx_media_links">
-          <value><![CDATA[https://solarpoweredblonde.com/wp-content/uploads/2019/06/01-1.jpg]]></value>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>
-           115.1123388,-8.8150544,undefined
-        </coordinates>
-      </Point>
-    </Placemark><Placemark>
-      <name>Bingin Beach</name>
-      <description><![CDATA[<img src="https://boardingcallblog.com/wp-content/uploads/2017/03/bingin.jpg" height="200" width="auto" /><br><br>Great beach spot]]></description>
+      <name>Sweeney Ridge Trail</name>
+      <description><![CDATA[<img src="" height="200" width="auto" /><br><br>]]></description>
       <styleUrl>#icon-ci-exploration</styleUrl>
       <ExtendedData>
         <Data name="gx_media_links">
-          <value><![CDATA[https://boardingcallblog.com/wp-content/uploads/2017/03/bingin.jpg]]></value>
+          <value><![CDATA[]]></value>
         </Data>
       </ExtendedData>
       <Point>
         <coordinates>
-           115.1130376,-8.8056919,undefined
+           -122.4581695,37.607185,0
+        </coordinates>
+      </Point>
+    </Placemark><Placemark>
+      <name>Taco Bell at Pacifica</name>
+      <description><![CDATA[<img src="" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-ci-food</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+           -122.5036883,37.5971406,0
+        </coordinates>
+      </Point>
+    </Placemark><Placemark>
+      <name>Mori Point</name>
+      <description><![CDATA[<img src="" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-ci-exploration</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+           -122.4924151,37.61869660000001,0
+        </coordinates>
+      </Point>
+    </Placemark><Placemark>
+      <name>Mavericks Beach</name>
+      <description><![CDATA[<img src="" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-ci-exploration</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+           -122.496687,37.4955696,0
+        </coordinates>
+      </Point>
+    </Placemark><Placemark>
+      <name>Poplar Beach</name>
+      <description><![CDATA[<img src="" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-ci-exploration</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+           -122.4447988,37.4552185,0
+        </coordinates>
+      </Point>
+    </Placemark><Placemark>
+      <name>Roosevelt Beach</name>
+      <description><![CDATA[<img src="" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-ci-exploration</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+           -122.4542637,37.4879538,0
+        </coordinates>
+      </Point>
+    </Placemark><Placemark>
+      <name>Highway 92 succulents</name>
+      <description><![CDATA[<img src="" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-ci-exploration</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+           -122.412043,37.4781344,0
+        </coordinates>
+      </Point>
+    </Placemark><Placemark>
+      <name>Half Moon Bay Main Street</name>
+      <description><![CDATA[<img src="" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-ci-exploration</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+           -122.4298286,37.4598209,0
+        </coordinates>
+      </Point>
+    </Placemark><Placemark>
+      <name>Montara beach</name>
+      <description><![CDATA[<img src="" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-ci-exploration</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+           -122.5149481,37.54688710000001,0
+        </coordinates>
+      </Point>
+    </Placemark><Placemark>
+      <name>moss beach brewery</name>
+      <description><![CDATA[<img src="" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-ci-food</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+           -122.512849,37.517728,0
+        </coordinates>
+      </Point>
+    </Placemark><Placemark>
+      <name>Seal Cove Cypress Tree Tunnel</name>
+      <description><![CDATA[<img src="" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-ci-exploration</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+           -122.9454901,38.0938611,0
+        </coordinates>
+      </Point>
+    </Placemark><Placemark>
+      <name>Montara Reef viewpoint</name>
+      <description><![CDATA[<img src="" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-ci-exploration</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+           -122.5169469,37.5427367,0
+        </coordinates>
+      </Point>
+    </Placemark><Placemark>
+      <name>Montara Mountain (Top Of Mountain) Trailhead</name>
+      <description><![CDATA[<img src="" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-ci-exploration</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+           -122.4272222,37.5288888,0
+        </coordinates>
+      </Point>
+    </Placemark><Placemark>
+      <name>Devil's Slide Trail</name>
+      <description><![CDATA[<img src="" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-ci-exploration</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+           -122.5164776,37.5798621,0
+        </coordinates>
+      </Point>
+    </Placemark><Placemark>
+      <name>Devil's Slide Trail Parking Lot</name>
+      <description><![CDATA[<img src="" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-ci-exploration</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+           -122.5095328,37.5852479,0
+        </coordinates>
+      </Point>
+    </Placemark><Placemark>
+      <name>Rockaway Beach California</name>
+      <description><![CDATA[<img src="" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-ci-exploration</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+           -122.4974755,37.6099367,0
+        </coordinates>
+      </Point>
+    </Placemark><Placemark>
+      <name>Bootlegger's Steps</name>
+      <description><![CDATA[<img src="" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-ci-exploration</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+           -122.496413,37.6202692,0
+        </coordinates>
+      </Point>
+    </Placemark><Placemark>
+      <name>Nike Missile Site San Francisco</name>
+      <description><![CDATA[<img src="" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-ci-exploration</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+           -122.5274177,37.8271142,0
         </coordinates>
       </Point>
     </Placemark></Document>

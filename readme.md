@@ -33,6 +33,7 @@ This project is pretty messy. So far I'm using this per trip. To use it as is:
   - Upload the CSV with these options:
     - Remove first row (headers): `boolean`
     - Parse coordinates: `boolean`
+- Add the ability to *update* a downloaded KMZ
 
 # Useful things
 

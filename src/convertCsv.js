@@ -45,7 +45,12 @@ convertCsv.post('/', upload.single('file'), (req, res, next) => {
 
         if(true) {
           let loc = location.split(',');
-          let newLoc = `${loc[1]},${loc[0]},${loc[2]}`;
+          let newLoc;
+          if(loc.length > 2) {
+            newLoc = `${loc[1]},${loc[0]},${loc[2]}`;
+          } else {
+            newLoc = `${loc[1]},${loc[0]},0`;
+          }
           return newLoc
         }
       }

@@ -9,3 +9,6 @@ node_modules
 
 # temporary files
 temp
+
+# example files
+example_files
